@@ -5,5 +5,5 @@
 ---
 
 ### 프로그램 목록
-*[마인크래프트 삼각 측량](https://github.com/ponte156/minecraft_triangulator)
+* [마인크래프트 삼각 측량](https://github.com/ponte156/minecraft_triangulator)
 >**삼각 측량 알고리즘**을 이용해 플레이 중 엔더유적을 찾을 시 사용되는 엔더의 눈 소비를 최소화하는 프로그램입니다.
